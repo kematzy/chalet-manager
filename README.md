@@ -1,6 +1,6 @@
-<div style="text-align: center; height: 256px;">
-<img src="https://raw.githubusercontent.com/kematzy/chalet-manager/main/logo.png" alt="Chalet logo" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kematzy/chalet-manager/main/logo.png" alt="Chalet logo" />
+</p>
 
 # Chalet Manager
 
