@@ -1,0 +1,8 @@
+{
+  "shell-version": ["3.32", "3.34", "3.36", "3.38", "40", "41", "42", "43"],
+  "uuid": "chalet-manager@kematzy.com",
+  "url": "https://github.com/kematzy/chalet-manager",
+  "version": 1,
+  "name": "Chalet Manager",
+  "description": "Chalet Manager enables control of the Chalet development servers from the top panel."
+}

@@ -1,0 +1,15 @@
+.chalet-manager-button {
+  padding: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 100px;
+  min-width: 18px;
+  min-height: 18px;
+}
+
+.chalet-manager-item .toggle-switch {
+  margin-left: 10px;
+}
+
+.chalet-manager-item .popup-menu-ornament {
+  width: 0px !important;
+}
