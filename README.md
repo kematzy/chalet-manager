@@ -1,23 +1,26 @@
+<div style="text-align: center; height: 256px;">
+<img src="https://raw.githubusercontent.com/kematzy/chalet-manager/main/logo.png" alt="Chalet logo" />
+</div>
+
 # Chalet Manager
 
 GNOME Shell extension to manage [Chalet](https://github.com/jeansaad/chalet) development servers,
-which is a more current fork of the original [Hotel](https://github.com/typicode/hotel) development
-server.
+a more current fork of the original [Hotel](https://github.com/typicode/hotel) development server.
 
 **Chalet Manager** is a fork / copy of Hardpixel's
 [Hotel Manager](https://github.com/hardpixel/hotel-manager) intended to work with the
 Chalet development server.
 
-![Screenshot](https://raw.githubusercontent.com/kematzy/chalet-manager/main/chalet-manager-screenshot.png)
-
 ## About
 
-Chalet Manager is a [Gnome](https://www.gnome.org/) Shell extension which allows to start and stop
-the Chalet daemon and your development servers via a menu in the status area.
+Chalet Manager is a [Gnome](https://www.gnome.org/) Shell extension that enables you to start and
+stop the Chalet daemon and your development servers via a menu in the status area.
 
-![Screenshot](https://raw.githubusercontent.com/kematzy/chalet-manager/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kematzy/chalet-manager/main/chalet-manager-screenshot.png)
 
 ## Install
+
+**NOTE! Until the extension is approved by GNOME, you need to follow these instructions**
 
 Make sure you have installed [Chalet](https://github.com/jeansaad/chalet) and then copy folder
 `chalet-manager@kematzy.com` into `~/.local/share/gnome-shell/extensions`.
