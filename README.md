@@ -8,6 +8,7 @@ server.
 [Hotel Manager](https://github.com/hardpixel/hotel-manager) intended to work with the
 Chalet development server.
 
+![Screenshot](https://raw.githubusercontent.com/kematzy/chalet-manager/main/chalet-manager-screenshot.png)
 
 ## About
 
